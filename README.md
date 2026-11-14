@@ -17,7 +17,7 @@
 - 🌱 Exploring Web Development and AI/ML.
 - 🧠 Interested in Data Structures and Algorithms.
 - 🚀 Aspiring to become a Software Engineer.
-- 📫 Email: your-email@gmail.com
+- 📫 Email: sahilkumar0025kr@gmail.com
 
 ---
 
