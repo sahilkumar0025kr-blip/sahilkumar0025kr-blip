@@ -46,9 +46,9 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilkumar0025kr-blip!&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilkumar0025kr-blip&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar0025kr-blip!&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar0025kr-blip&layout=compact&theme=tokyonight)
 
 ---
 
